@@ -6,6 +6,7 @@ class Mobile{
         System.out.println("Switch off ");
 
     }
+    //constrictor 
     Mobile(String n, int m,int y){
         name =n;
         model =m;
