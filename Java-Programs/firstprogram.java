@@ -11,7 +11,7 @@ class Mobile{
         name =n;
         model =m;
         year=y;
-    }
+    }   
 }
 
 class firstprogram {
