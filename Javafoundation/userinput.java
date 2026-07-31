@@ -14,5 +14,6 @@ public class userinput{
 
         n = sc.nextInt();
         System.out.println(n);
+        sc.close();
     }
 }
