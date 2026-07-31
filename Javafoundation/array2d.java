@@ -19,7 +19,7 @@ public class array2d {
         System.out.println("Printing the array ");
         for(int i=0;i<x;i++){
             for(int k=0;k<y;k++){
-                System.out.print(arr[i][k]);
+                System.out.println(arr[i][k]);
                 
         }
 
